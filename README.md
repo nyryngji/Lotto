@@ -31,6 +31,7 @@
     lotto_number = [list(map(int,row[-7:])) for row in data]
 
 <br>
+
 > **Topic** 
 
 - 여태까지 가장 많이 나온 숫자?
